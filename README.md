@@ -1,19 +1,4 @@
 
-<div align="center">
-  <a href="https://www.facebook.com/hungbien1907/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hungbien-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="hungbienBP-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/bian19/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hungbienBP-linkedin" />
-  </a>
-  <a href="mailto:biendien4508.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hungbienBP-email" />
-  </a>
-</div>
-<br> 
 
  <div align="center">
   <img align="left" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
@@ -77,7 +62,7 @@
          <p align="center">
            <a href="https://github.com/shodydosh/">
            <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodydosh&theme=tokyonight&layout=compact" alt="Shodydosh :: Top Langs" />
-           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bian197&theme=tokyonight" alt="Shodydosh :: Waka time" />
+           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bluephoenix&theme=tokyonight" alt="Shodydosh :: Waka time" />
           </a>
          </p>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

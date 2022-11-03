@@ -1,43 +1,4 @@
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
-
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bian197&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=bian197&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/hungbien1907/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hungbien-facebook" />
@@ -52,4 +13,117 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hungbienBP-email" />
   </a>
 </div>
-<br>
+<br> 
+
+ <div align="center">
+  <img align="left" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
+  <img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
+ <h1 align="center">Hi, I'm BluePhoenix <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+  <p align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=An+engineering+student+at+PTIT;Currently+learning+web+developing;Be+so+good+they+can't+ignore+you&center=true&width=500&height=50"></a>
+ </p>
+ </div>
+ 
+ <div align="center">
+   <a href="https://github.com/bian197">
+   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+        alt="snake" /></a>
+ </div>
+ 
+ 
+ <div>
+  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
+ <details>
+   <summary>🧮 About</summary>
+ <div>
+ <h2 align="center">🧮 About me</h2>
+ <div>- Wh0 (˘෴˘) </div>
+ <div>- ✨ Hi, I’m BluePhoenix</div>
+ <div>- ✨ 350+ Toeic</div>
+ <div>- ✨ I’m interested in coding, music and skateboarding</div>
+ <div>- ✨ I’m currently learning at Posts and Telecommunications Institute of Technology</div>
+ </div>
+ </details>
+ 
+ 
+ <details>
+   <summary>🔭 Tech Stack</summary>
+ <div align="center">
+ <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Tech Stack</h2>
+  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+ <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+ <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+  
+ </div>
+ </details>
+ 
+ 
+ 
+ 
+ <details> 
+   <summary>💻 GitHub Profile Stats</summary>
+   <div>
+     <h2 align="center"> Github stats </h2>
+       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+         <p align="center">
+            <a href="https://github.com/shodydosh/">
+            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bian197&theme=tokyonight" />
+            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bian197&show_icons=true&theme=tokyonight" />
+            </a>
+         </p>
+         <p align="center">
+           <a href="https://github.com/shodydosh/">
+           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodydosh&theme=tokyonight&layout=compact" alt="Shodydosh :: Top Langs" />
+           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bian197&theme=tokyonight" alt="Shodydosh :: Waka time" />
+          </a>
+         </p>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   </div>    
+ </details>
+ 
+ <details>
+   <summary>📈 Activity Graph</summary>
+   <br/>
+   <h2 align="center"> My current activity </h2>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shodydosh&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+ </details>
+ 
+ <details>
+   <summary>⚡ Github Profile Trophy </summary>
+   <br/>
+   <h2 align="center"> Github Profile Trophy </h2>
+ <p align="left"> <a href="https://github.com/shodydosh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shodydosh&theme=onedark" alt="Shodydosh" /></a> </p>
+ </details>
+  
+ <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
+ 
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hungbien1907/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shodydosh/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungnguyen252/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biendien4508@gmail.com)\
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Shodydosh)
+  [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Shodydosh/)
+  ----
+  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+  ![C++](https://img.shields.io/badge/-c++-red?style=flat-square&logo=c&logoColor=ffffff)
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+  ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+  ----
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+  ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+   ----
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bian197" alt="Shodydosh" /> </p>
+  
+ ⭐️ From BluePhonix
+ 
+ Last Edited on: 11/3/2022

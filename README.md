@@ -55,14 +55,14 @@
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
          <p align="center">
             <a href="https://github.com/shodydosh/">
-            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bian197&theme=tokyonight" />
-            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bian197&show_icons=true&theme=tokyonight" />
+            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluephoenixxx&theme=tokyonight" />
+            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bluephoenixxx&show_icons=true&theme=tokyonight" />
             </a>
          </p>
          <p align="center">
-           <a href="https://github.com/shodydosh/">
-           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodydosh&theme=tokyonight&layout=compact" alt="Shodydosh :: Top Langs" />
-           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bluephoenix&theme=tokyonight" alt="Shodydosh :: Waka time" />
+           <a href="https://github.com/bluephoenixxx/">
+           <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluephoenixxx&theme=tokyonight&layout=compact" alt="Shodydosh :: Top Langs" />
+           
           </a>
          </p>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -73,14 +73,14 @@
    <summary>📈 Activity Graph</summary>
    <br/>
    <h2 align="center"> My current activity </h2>
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shodydosh&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bluephoenixxx&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
  </details>
  
  <details>
    <summary>⚡ Github Profile Trophy </summary>
    <br/>
    <h2 align="center"> Github Profile Trophy </h2>
- <p align="left"> <a href="https://github.com/shodydosh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shodydosh&theme=onedark" alt="Shodydosh" /></a> </p>
+ <p align="left"> <a href="https://github.com/bluephoenixxx/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluephoenixxx&theme=onedark" alt="Shodydosh" /></a> </p>
  </details>
   
  <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->

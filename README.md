@@ -99,6 +99,7 @@
   ----
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-square&logo=linux&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-square&logo=mysql&logoColor=white)
   ![Aruba](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-square&logo=azure-devops&logoColor=white)
   ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
   ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)

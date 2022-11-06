@@ -26,8 +26,8 @@
  <div>- Wh0 (˘෴˘) </div>
  <div>- ✨ Hi, I’m BluePhoenix</div>
  <div>- ✨ 350+ Toeic</div>
- <div>- ✨ I’m interested in coding, music and skateboarding</div>
- <div>- ✨ I’m currently learning at Posts and Telecommunications Institute of Technology</div>
+ <div>- ✨ I’m interested in coding, music and game</div>
+ <div>- ✨ I’m currently learning at Posts and Telecommunications Institute of Technology - Ho Chi Minh </div>
  </div>
  </details>
  

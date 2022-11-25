@@ -18,7 +18,7 @@
  
  <div>
   <img align="right" width=250px height=250px alt="side_sticker" src="https://github.com/BluePhoenixxx/BluePhoenixxx/blob/main/1-unscreen.gif" />
- 
+ <br>
  <details>
    <summary>🧮 About</summary>
  <div>

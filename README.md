@@ -17,7 +17,7 @@
  
  
  <div>
-  <img align="right" width=250px height=250px alt="side_sticker" src="https://file.vfo.vn/hinh/2016/05/1.gif" />
+  <img align="right" width=250px height=250px alt="side_sticker" src="https://github.com/BluePhoenixxx/BluePhoenixxx/blob/main/1-unscreen.gif" />
  
  <details>
    <summary>🧮 About</summary>

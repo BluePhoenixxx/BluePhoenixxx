@@ -11,13 +11,13 @@
  
  <div align="center">
    <a href="https://github.com/bluephoenix">
-   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+   <img  src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
         alt="snake" /></a>
  </div>
  
  
  <div>
-  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img align="right" width=250px height=250px alt="side_sticker" src="https://file.vfo.vn/hinh/2016/05/1.gif" />
  
  <details>
    <summary>🧮 About</summary>
@@ -49,10 +49,11 @@
          </p>
    </div>    
  </details>
-   <br/>
+  <details> 
+   <summary>💻 GitHub activity </summary>
    <h2 align="center"> My current activity </h2>
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bluephoenixxx&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
- 
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Blue Phoenix's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bluephoenixxx&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  </details>
   
  <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
  

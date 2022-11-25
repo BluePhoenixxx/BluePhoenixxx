@@ -31,23 +31,7 @@
  </div>
  </details>
  
- 
- <details>
-   <summary>🔭 Tech Stack</summary>
- <div align="center">
- <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Tech Stack</h2>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-  
- </div>
- </details>
- 
- 
- 
- 
+
  <details> 
    <summary>💻 GitHub Profile Stats</summary>
    <div>
@@ -65,20 +49,10 @@
          </p>
    </div>    
  </details>
- 
- <details>
-   <summary>📈 Activity Graph</summary>
    <br/>
    <h2 align="center"> My current activity </h2>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bluephoenixxx&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
- </details>
  
- <details>
-   <summary>⚡ Github Profile Trophy </summary>
-   <br/>
-   <h2 align="center"> Github Profile Trophy </h2>
- <p align="left"> <a href="https://github.com/bluephoenixxx/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluephoenixxx&theme=onedark" alt="Shodydosh" /></a> </p>
- </details>
   
  <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
  
